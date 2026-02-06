@@ -9,7 +9,7 @@ Dive deeper, learn new skills, and experiment!
 
 | Project | Description |
 |---|---|
-| [Stock Analyzer with n8n](https://github.com/ruthviksharma-d/Tier-2-Intermediate-Projects/tree/main/stock-analyzer-n8n) | A stock analysis project integrated with n8n automation: data ingestion, analysis, alerts, and dashboard-ready outputs. Includes an HTTP wrapper for the analyzer, an importable n8n workflow JSON, and usage/credentials notes. |
+| [Stock Analyzer with n8n](https://github.com/ruthviksharma-d/Stock-Market-Analysis-with-n8n) | A stock analysis project integrated with n8n automation: data ingestion, analysis, alerts, and dashboard-ready outputs. Includes an HTTP wrapper for the analyzer, an importable n8n workflow JSON, and usage/credentials notes. |
 | [Reverse Image Search - Local MVP](https://github.com/ruthviksharma-d/Reverse-Image-Search---Local-MVP) | Search images by content using a local prototype for reverse image lookup. |
 | [My own Photoshop Webapp in 7 Days](https://github.com/ruthviksharma-d/My-own-photoshop-webapp-in-7-days) | A web application emulating Photoshop-like features, built in just seven days. |
 | [Secure Voting System using Aadhar](https://github.com/ruthviksharma-d/secure-voting-system-using-aadhar) | An online voting system integrating Aadhar authentication for enhanced security. |
