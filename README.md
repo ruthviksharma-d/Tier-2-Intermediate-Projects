@@ -17,6 +17,7 @@ Dive deeper, learn new skills, and experiment!
 | [FitStudentAI-IBM-Project](https://github.com/ruthviksharma-d/FitStudentAI-IBM-Project) | Personalized workout & diet planner with AI. |
 
 ---
+Here's the link to next tier projects : [View Tier 3 Projects now!!](https://github.com/ruthviksharma-d/Tier-3-Advanced-Projects)
 
 ### 📣 Why This Collection
 
